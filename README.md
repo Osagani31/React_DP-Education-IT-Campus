@@ -1,11 +1,8 @@
 # 🚀 React Learning Repository | DP Education IT Campus
-<p align="right">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React Banner" width="50" height="50" />
-</p>  
 
 Welcome to my **React Learning Repository**! 🎯  
 This repository contains all my **course materials**, **projects**, **assignments**, and **notes** from the **React Development Course** conducted by **DP Education IT Campus**.
-
+  
 ---
 
 ## 📚 About the Course
